@@ -118,11 +118,6 @@ $(function() {
 
          it ('has been loaded', function(){
             expect($('.feed')).toBeDefined();
-         })
-
-
-
-
-
+         });
     });
 }());
